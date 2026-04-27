@@ -1,5 +1,7 @@
 # Dataset-New-For-Yolov11
 
+A dataset processing python script for pre-training of Yolov11
+
 **新的数据集存储格式**
 ```
 -DataSet
